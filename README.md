@@ -5,4 +5,4 @@ Practicing model building and training in Keras on the CIFAR-10 dataset.
 | Model                        	| Validation Accuracy 	|
 |------------------------------	|---------------------	|
 | 20 dense layers              	| 44.3%               	|
-| 20 dense layers + Batch Norm 	| ?                   	|
+| 20 dense layers + batch norm 	| 50.8%                	|
